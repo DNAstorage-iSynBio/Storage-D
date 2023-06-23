@@ -84,7 +84,7 @@ res_file = decode_worker.common_decode()
 
 ## Citing
 
-[^1]: Huang X, Cui J, Qiang W, Lu M, Dai J. Storage-D: a robust and user-friendly codec tool for DNA data storage. In submission.
+[^1]: Huang X, Cui J, Qiang W, Ye J, Wang Y, Xie X, Li Y, Dai J. Storage-D: a user-friendly tool that enables practical and personalized data storage into DNA.
 
 [^2]: [Church, G. M., Gao, Y. & Kosuri, S. Next-generation digital information storage in DNA. Science. 2012; 33 (6102):1628.](https://www.science.org/doi/10.1126/science.1226355)
 
